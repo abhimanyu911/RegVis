@@ -12,3 +12,5 @@ In order to reproduce this app for yourself, perform the following steps
 2) Click the Run App button on RStudio
 
 3) Connect your shinyapps.io account and deploy the application
+
+4) Click [here](https://abhimanyu911.shinyapps.io/pitch_slidy/) for presentation

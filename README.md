@@ -1,7 +1,7 @@
 
 ## Purpose
 
-This app aims to visualize different kinds of regression models on the mtcars dataset
+This [app](https://abhimanyu911.shinyapps.io/RegVis_mtcars/) aims to visualize different kinds of regression models on the mtcars dataset
 
 ## Reproducibility
 
